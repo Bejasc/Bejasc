@@ -89,6 +89,7 @@ while(!dev.isCoding())
 </a>
 
 ---
-[![Twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/bejascaus)
+[![Twitter (Personal)](https://img.shields.io/badge/Twitter%20(Bejasc)-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/bejascaus)
+[![Twitter (Beyond Orbit)](https://img.shields.io/badge/Twitter%20(Beyond%20Orbit)-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/drone5dev)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCq4B_5TtPrjKqDkxtfwAahw)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://bejasc.github.io/blog/)
