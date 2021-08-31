@@ -30,9 +30,6 @@ const skills =
 
 Developer dev = new Developer(['safeag', 'beyond-orbit', 'discord-swrpg', ...]);
 
-dev.use(OperationSystem.Windows)
-dev.use(Phone.Android)
-
 while(!dev.isCoding())  
 {
   dev.eat(110);
