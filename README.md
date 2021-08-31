@@ -35,11 +35,11 @@
 ## Discord Server
 <a href="https://discord.gg/28pExzKQrT">
   <kbd>
-  <img align="center" src="https://cdn.discordapp.com/attachments/805622271904579606/805639151952986172/server-banner.gif" height="auto" width="420"/>
+  <img align="center" src="https://cdn.discordapp.com/attachments/805622271904579606/805639151952986172/server-banner.gif" height="auto" width="350"/>
   </kbd>
 </a>
 <a href="https://discord.gg/ZvmKvya">
   <kbd>
-  <img align="center" src="https://cdn.discordapp.com/attachments/758199183814426635/882273178813071410/drpg-banner.gif" height="auto" width="420"/>
+  <img align="center" src="https://cdn.discordapp.com/attachments/758199183814426635/882273178813071410/drpg-banner.gif" height="auto" width="350"/>
   </kbd>
 </a>
