@@ -1,9 +1,56 @@
+## About Me
+
+```js
+const name = 'Ben';
+document.write("Hello World!");
+
+var status = 
+{ 
+  employed   : true,
+  
+  position   : "Development Team Leader",
+  
+  location   : "Adelaide, South Australia",
+  
+  interests  : [ Productivity, Leadership, Game Development, Food, Music, Science Fiction ]
+}
+
+const skills = 
+{
+  languages  : [ Csharp, Typescript, Javascript ],
+  
+  ide        : [ Vs Code, Visual Studio ],
+  
+  frameworks : [ 'Xamarin.Forms', 'Discord.JS', 'Unity', 'ASP.Net', 'VueJS'],
+  
+  platforms  : [ Microsoft Azure ],
+  
+}
+
+
+Developer dev = new Developer(['safeag', 'beyond-orbit', 'discord-swrpg']);
+
+dev.use(OperationSystem.Windows)
+dev.use(Phone.Android)
+
+while(!dev.isCoding())  
+{
+  dev.eat(110);
+  dev.goodHusband(true);
+  dev.game(['rpg','open-world','sim']);
+  dev.dream({idea:'new'})
+  dev.sleep(6.5);
+}
+```
+
+---
+
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bejasc&custom_title=Recent%20Activity%20(Last%207%20days)&langs_count=6&layout=compact&theme=onedark" />
 </a>
-<a href="#">
+<!-- <a href="#">
   <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=bejasc&langs_count=10&hide=scss,python,lua&count_private=true&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&theme=onedark" />
-</a>
+</a> -->
 
 ---
 
