@@ -28,7 +28,7 @@ const skills =
 }
 
 
-Developer dev = new Developer(['safeag', 'beyond-orbit', 'discord-swrpg']);
+Developer dev = new Developer(['safeag', 'beyond-orbit', 'discord-swrpg', ...]);
 
 dev.use(OperationSystem.Windows)
 dev.use(Phone.Android)
