@@ -45,6 +45,5 @@
 </a>
 
 ---
-[![Youtube](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/bejascaus)
+[![Twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/bejascaus)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCq4B_5TtPrjKqDkxtfwAahw)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.youtube.com/channel/UCq4B_5TtPrjKqDkxtfwAahw)
