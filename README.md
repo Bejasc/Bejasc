@@ -5,6 +5,7 @@
   <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=bejasc&langs_count=10&hide=scss,python,lua&count_private=true&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&theme=onedark" />
 </a>
 
+---
 
 ## My Toolbelt
 
@@ -28,3 +29,17 @@
 
 ![](https://img.shields.io/badge/Adobe_Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=35A1BD)
 ![](https://img.shields.io/badge/Blender-informational?style=flat&logo=blender&logoColor=white&color=35A1BD)
+
+---
+
+## Discord Server
+<a href="https://discord.gg/28pExzKQrT">
+  <kbd>
+  <img align="center" src="https://cdn.discordapp.com/attachments/805622271904579606/805639151952986172/server-banner.gif" height="auto" width="450"/>
+  </kbd>
+</a>
+<a href="https://discord.gg/ZvmKvya">
+  <kbd>
+  <img align="center" src="https://cdn.discordapp.com/attachments/758199183814426635/882273178813071410/drpg-banner.gif" height="auto" width="450"/>
+  </kbd>
+</a>
