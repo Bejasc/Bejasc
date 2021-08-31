@@ -1,6 +1,10 @@
-[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api?username=bejasc&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bejasc&custom_title=Recent%20Activity%20(Last%207%20days)&langs_count=6&layout=compact&theme=onedark" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=bejasc&langs_count=10&hide=scss,python,lua&count_private=true&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&theme=onedark" />
+</a>
 
-[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=bejasc&langs_count=10&hide=scss,python,lua&count_private=true&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Toolbelt
 
