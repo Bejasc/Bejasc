@@ -12,7 +12,7 @@ var status =
   
   location   : "Adelaide, South Australia",
   
-  interests  : [ Productivity, Leadership, Game Development, Food, Music, Science Fiction ]
+  interests  : [ Productivity, Leadership, Game Development, Food, Music, Science Fiction, Food ]
 }
 
 const skills = 
