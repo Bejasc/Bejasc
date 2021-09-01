@@ -60,10 +60,10 @@ while(!dev.isCoding())
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Xamarin-informational?style=flat&logo=Xamarin&logoColor=white&color=bd3e6b)
+![](https://img.shields.io/badge/Xamarin.Forms-informational?style=flat&logo=Xamarin&logoColor=white&color=bd3e6b)
 ![](https://img.shields.io/badge/Discord.JS-informational?style=flat&logo=Discord&logoColor=white&color=bd3e6b)
 ![](https://img.shields.io/badge/Unity-informational?style=flat&logo=unity&logoColor=white&color=bd3e6b)
-![](https://img.shields.io/badge/VueJS-informational?style=flat&logo=Vue.js&logoColor=white&color=bd3e6b)
+![](https://img.shields.io/badge/Vue.JS-informational?style=flat&logo=Vue.js&logoColor=white&color=bd3e6b)
 ![](https://img.shields.io/badge/Vuetify-informational?style=flat&logo=Vuetify&logoColor=white&color=bd3e6b)
 
 ![](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=BD6719)
