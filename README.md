@@ -87,7 +87,11 @@ while(!dev.isCoding())
   <img align="center" src="https://cdn.discordapp.com/attachments/758199183814426635/882273178813071410/drpg-banner.gif" height="auto" width="375"/>
   </kbd>
 </a>
-
+<a href="https://discord.gg/FGNQ74efnm">
+  <kbd>
+  <img align="center" src="https://cdn.discordapp.com/attachments/927083996922413076/927840153202991164/Banner-Vibrant.gif" height="auto" width="375"/>
+  </kbd>
+</a>
 ---
 [![Twitter (Personal)](https://img.shields.io/badge/Twitter%20(Bejasc)-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/bejascaus)
 [![Twitter (Beyond Orbit)](https://img.shields.io/badge/Twitter%20(Beyond%20Orbit)-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/drone5dev)
