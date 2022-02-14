@@ -1,47 +1,3 @@
-## About Me
-
-```js
-const name = 'Ben';
-document.write("Hello World!");
-
-var status = 
-{ 
-  employed   : true,
-  
-  position   : "Development Team Leader",
-  
-  location   : "Adelaide, South Australia",
-  
-  interests  : [ Productivity, Leadership, Game Development, Food, Music, Science Fiction, Food ]
-}
-
-const skills = 
-{
-  languages  : [ Csharp, Typescript, Javascript ],
-  
-  ide        : [ Vs Code, Visual Studio ],
-  
-  frameworks : [ 'Xamarin.Forms', 'Discord.JS', 'Unity', 'ASP.Net', 'VueJS'],
-  
-  platforms  : [ Microsoft Azure ],
-  
-}
-
-
-Developer dev = new Developer(['safeag', 'beyond-orbit', 'discord-swrpg', ...]);
-
-while(!dev.isCoding())  
-{
-  dev.eat(110);
-  dev.goodHusband(true);
-  dev.game(['rpg','open-world','sim']);
-  dev.dream({idea:'new'})
-  dev.sleep(6.5);
-}
-```
-
----
-
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bejasc&custom_title=Recent%20Activity%20(Last%207%20days)&langs_count=6&layout=compact&theme=onedark" />
 </a>
@@ -92,10 +48,3 @@ while(!dev.isCoding())
   <img align="center" src="https://cdn.discordapp.com/attachments/927083996922413076/927840153202991164/Banner-Vibrant.gif" height="auto" width="375"/>
   </kbd>
 </a>
-
----
-
-[![Twitter (Personal)](https://img.shields.io/badge/Twitter%20(Bejasc)-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/bejascaus)
-[![Twitter (Beyond Orbit)](https://img.shields.io/badge/Twitter%20(Beyond%20Orbit)-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/drone5dev)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCq4B_5TtPrjKqDkxtfwAahw)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://bejasc.github.io/blog/)
