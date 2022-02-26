@@ -7,24 +7,17 @@ document.write("Hello World!");
 var status = 
 { 
   employed   : true,
-  
   position   : "Development Team Leader",
-  
   location   : "Adelaide, South Australia",
-  
   interests  : [ Productivity, Leadership, Game Development, Food, Music, Science Fiction, Food ]
 }
 
 const skills = 
 {
   languages  : [ Csharp, Typescript, Javascript ],
-  
   ide        : [ Vs Code, Visual Studio ],
-  
   frameworks : [ 'Xamarin.Forms', 'Discord.JS', 'Unity', 'ASP.Net', 'VueJS'],
-  
   platforms  : [ Microsoft Azure ],
-  
 }
 
 Developer dev = new Developer(['safeag', 'beyond-orbit', 'discord-swrpg', ...]);
