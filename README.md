@@ -3,6 +3,7 @@
 ```js
 const name = 'Ben';
 document.write("Hello World!");
+
 var status = 
 { 
   employed   : true,
@@ -13,6 +14,7 @@ var status =
   
   interests  : [ Productivity, Leadership, Game Development, Food, Music, Science Fiction, Food ]
 }
+
 const skills = 
 {
   languages  : [ Csharp, Typescript, Javascript ],
@@ -24,7 +26,9 @@ const skills =
   platforms  : [ Microsoft Azure ],
   
 }
+
 Developer dev = new Developer(['safeag', 'beyond-orbit', 'discord-swrpg', ...]);
+
 while(!dev.isCoding())  
 {
   dev.eat(110);
@@ -41,9 +45,7 @@ while(!dev.isCoding())
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bejasc&custom_title=Recent%20Activity%20(Last%207%20days)&langs_count=6&layout=compact&theme=onedark" />
   
 </a>
-<!-- <a href="#">
-  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=bejasc&langs_count=10&hide=scss,python,lua&count_private=true&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&theme=onedark" />
-</a> -->
+
 
 ---
 ## My Toolbelt
