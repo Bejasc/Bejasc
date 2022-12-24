@@ -10,25 +10,25 @@ var status =
   employed   : true,
   position   : "Development Team Leader",
   location   : "Adelaide, South Australia",
-  interests  : [ Productivity, Leadership, Game Development, Food, Music, Science Fiction, Food ]
+  interests  : [ "Productivity", "Leadership", "Game Development", "Food", "Cooking", "Music", "Science Fiction", "Food", "Gaming", "Food" ]
 }
 
 const skills = 
 {
-  languages  : [ Csharp, Typescript, Javascript ],
-  ide        : [ Vs Code, Visual Studio ],
-  frameworks : [ 'Xamarin.Forms', 'Discord.JS', 'Unity', 'ASP.Net', 'VueJS'],
-  platforms  : [ Microsoft Azure ],
+  languages  : [ "Csharp", "Typescript", "Javascript" ],
+  ide        : [ "VS Code", "Visual Studio" ],
+  frameworks : [ "Xamarin.Forms", "Discord.JS", "Unity", "ASP.Net", "VueJS"],
+  platforms  : [ "Microsoft Azure" ],
 }
 
-Developer dev = new Developer(['safeag', 'beyond-orbit', 'discord-swrpg', ...]);
+Developer dev = new Developer(["safeag", "discord-swrpg", ...]);
 
 while(!dev.isCoding())  
 {
   dev.eat(110);
   dev.goodHusband(true);
-  dev.game(['rpg','open-world','sim']);
-  dev.dream({idea:'new'})
+  dev.game(["rpg", "open-world", "sim"]);
+  dev.dream({ idea: "new" })
   dev.sleep(6.5);
 }
 ```
@@ -68,14 +68,10 @@ while(!dev.isCoding())
 
 ## Discord Servers
 <a href="https://discord.gg/28pExzKQrT">
-  <kbd>
   <img align="center" src="https://cdn.discordapp.com/attachments/805622271904579606/805639151952986172/server-banner.gif" height="auto" width="375"/>
-  </kbd>
 </a>
 <a href="https://discord.gg/ZvmKvya">
-  <kbd>
   <img align="center" src="https://cdn.discordapp.com/attachments/758199183814426635/882273178813071410/drpg-banner.gif" height="auto" width="375"/>
-  </kbd>
 </a>
 <!--
 <a href="https://discord.gg/FGNQ74efnm">
