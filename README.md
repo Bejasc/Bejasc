@@ -34,14 +34,16 @@ while(!dev.isCoding())
 ```
 
 ---
-
+  <!--
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bejasc&custom_title=Activity&langs_count=6&layout=compact&theme=onedark" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bejasc&hide=prs&count_private=true&theme=onedark&show_icons=true" />
 </a>
-
+  -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bejasc&theme=dracula&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bejasc&theme=dracula&height=200&bg_color=282A36&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bejasc&show_icons=true&count_private=true&theme=dracula&hide_border=true"/></a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bejasc&theme=dracula&title=Contributions&width=100%"/>
+
 
 ---
 ## My Toolbelt
@@ -67,8 +69,9 @@ while(!dev.isCoding())
 ![](https://img.shields.io/badge/Adobe_Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=35A1BD)
 ![](https://img.shields.io/badge/Blender-informational?style=flat&logo=blender&logoColor=white&color=35A1BD)
 
----
 <!--
+---
+
 ## Discord Servers
 <a href="https://discord.gg/28pExzKQrT">
   <img align="center" src="https://cdn.discordapp.com/attachments/805622271904579606/805639151952986172/server-banner.gif" height="auto" width="375"/>
