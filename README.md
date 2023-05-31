@@ -40,6 +40,9 @@ while(!dev.isCoding())
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bejasc&hide=prs&count_private=true&theme=onedark&show_icons=true" />
 </a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bejasc&theme=dracula&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bejasc&theme=dracula&height=200&bg_color=282A36&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 ## My Toolbelt
 
@@ -65,7 +68,7 @@ while(!dev.isCoding())
 ![](https://img.shields.io/badge/Blender-informational?style=flat&logo=blender&logoColor=white&color=35A1BD)
 
 ---
-
+<!--
 ## Discord Servers
 <a href="https://discord.gg/28pExzKQrT">
   <img align="center" src="https://cdn.discordapp.com/attachments/805622271904579606/805639151952986172/server-banner.gif" height="auto" width="375"/>
@@ -73,7 +76,7 @@ while(!dev.isCoding())
 <a href="https://discord.gg/ZvmKvya">
   <img align="center" src="https://cdn.discordapp.com/attachments/758199183814426635/882273178813071410/drpg-banner.gif" height="auto" width="375"/>
 </a>
-<!--
+
 <a href="https://discord.gg/FGNQ74efnm">
   <kbd>
   <img align="center" src="https://cdn.discordapp.com/attachments/927083996922413076/927840153202991164/Banner-Vibrant.gif" height="auto" width="375"/>
@@ -83,8 +86,9 @@ while(!dev.isCoding())
 
 ---
 
+<!--
 [![Twitter (Personal)](https://img.shields.io/badge/Twitter%20(Bejasc)-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/bejascaus)
 [![Twitter (Beyond Orbit)](https://img.shields.io/badge/Twitter%20(Beyond%20Orbit)-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/drone5dev)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCq4B_5TtPrjKqDkxtfwAahw)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://bejasc.github.io/blog/)
-
+-->
