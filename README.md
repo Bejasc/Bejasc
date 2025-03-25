@@ -74,7 +74,10 @@ while(!dev.isCoding())
 
 ## My Work
 <a href="https://discord.gg/28pExzKQrT">
-  <img align="center" src="https://cdn.bejasc.dev/swrpg/branding/server-banner.gif" height="auto" width="375"/>
+  <img align="center" src="https://cdn.bejasc.dev/swrpg/branding/server-banner.gif" height="auto" width="400"/>
+</a>
+<a href="https://swrpg.bejasc.dev">
+  <img align="center" src="https://cdn.bejasc.dev/swrpg/branding/swrpg-toolkit.png" height="auto" width="150"/>
 </a>
 
 ---
