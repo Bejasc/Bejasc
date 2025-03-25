@@ -9,7 +9,7 @@ var status =
 { 
   employed   : true,
   position   : "Development Team Leader",
-  location   : "Adelaide, South Australia",
+  location   : "South Australia",
   interests  : [ "Productivity", "Leadership", "Game Development", "Food", "Cooking", "Music", "Science Fiction", "Food", "Gaming", "Food" ]
 }
 
@@ -17,17 +17,18 @@ const skills =
 {
   languages  : [ "Csharp", "Typescript", "Javascript" ],
   ide        : [ "VS Code", "Visual Studio" ],
-  frameworks : [ "Xamarin.Forms", "Discord.JS", "Unity", "ASP.Net", "VueJS"],
+  frameworks : [ ".NET MAUI", "VueJS", "Quasar", "Nest.JS", "Discord.JS", "Unity", "ASP.Net", "Xamarin.Forms"],
   platforms  : [ "Microsoft Azure" ],
+  supplementary: [ "Photoshop", "Blender", "Figma" ]
 }
 
-Developer dev = new Developer(["safeag", "discord-swrpg", ...]);
+Developer dev = new Developer(["beyond-orbit", "safeag", "swrpg-bot" ]);
 
 while(!dev.isCoding())  
 {
   dev.eat(110);
   dev.goodHusband(true);
-  dev.game(["rpg", "open-world", "sim"]);
+  dev.game(["rpg", "open-world", "sim", "space"]);
   dev.dream({ idea: "new" })
   dev.sleep(6.5);
 }
@@ -40,7 +41,6 @@ while(!dev.isCoding())
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bejasc&hide=prs&count_private=true&theme=onedark&show_icons=true" />
 </a>
   -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bejasc&theme=dracula&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bejasc&show_icons=true&count_private=true&theme=dracula&hide_border=true"/></a>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bejasc&theme=dracula&title=Contributions&width=100%"/>
 
@@ -69,23 +69,13 @@ while(!dev.isCoding())
 ![](https://img.shields.io/badge/Adobe_Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=35A1BD)
 ![](https://img.shields.io/badge/Blender-informational?style=flat&logo=blender&logoColor=white&color=35A1BD)
 
-<!--
+
 ---
 
-## Discord Servers
+## My Work
 <a href="https://discord.gg/28pExzKQrT">
-  <img align="center" src="https://cdn.discordapp.com/attachments/805622271904579606/805639151952986172/server-banner.gif" height="auto" width="375"/>
+  <img align="center" src="https://cdn.bejasc.dev/swrpg/branding/server-banner.gif" height="auto" width="375"/>
 </a>
-<a href="https://discord.gg/ZvmKvya">
-  <img align="center" src="https://cdn.discordapp.com/attachments/758199183814426635/882273178813071410/drpg-banner.gif" height="auto" width="375"/>
-</a>
-
-<a href="https://discord.gg/FGNQ74efnm">
-  <kbd>
-  <img align="center" src="https://cdn.discordapp.com/attachments/927083996922413076/927840153202991164/Banner-Vibrant.gif" height="auto" width="375"/>
-  </kbd>
-</a>
--->
 
 ---
 
