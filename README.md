@@ -41,7 +41,7 @@ while(!dev.isCoding())
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bejasc&hide=prs&count_private=true&theme=onedark&show_icons=true" />
 </a>
   -->
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bejasc&show_icons=true&count_private=true&theme=dracula&hide_border=true"/></a>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bejasc&theme=dracula&title=Contributions&width=100%"/>
 
 
@@ -72,6 +72,7 @@ while(!dev.isCoding())
 
 ---
 
+<!--
 ## My Work
 <a href="https://discord.gg/28pExzKQrT">
   <img align="center" src="https://cdn.bejasc.dev/swrpg/branding/server-banner.gif" height="auto" width="400"/>
@@ -79,7 +80,7 @@ while(!dev.isCoding())
 <a href="https://swrpg.bejasc.dev">
   <img align="center" src="https://cdn.bejasc.dev/swrpg/branding/swrpg-toolkit.png" height="auto" width="150"/>
 </a>
-
+-->
 ---
 
 <!--
