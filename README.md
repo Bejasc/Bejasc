@@ -116,7 +116,7 @@ Side projects, experiments and technical spikes supported by my software develop
 <table>
 <tr>
 <td width="33%" valign="top" align="center">
-<a href="https://spacescape.bejasc.dev"><strong>Space Scape</strong></a><br><br>
+<a href="https://spacescape-dev.bejasc.dev"><strong>Space Scape</strong></a><br><br>
 A clone of Old School RuneScape rebuilt around a science-fiction setting, with a strong focus on development tooling, systems design and content pipelines.
 </td>
 
