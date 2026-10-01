@@ -76,7 +76,7 @@ My professional work in agricultural safety software, spanning product developme
 <td width="33%" valign="top" align="center">
 <a href="https://beyondorbit.online"><img src="https://beyondorbit.online/assets/Mark-tPJfqHrl.png" height="90" alt="Beyond Orbit"></a><br><br>
 <a href="https://beyondorbit.online"><strong>Beyond Orbit</strong></a><br><br>
-A systems-heavy science-fiction persistent browser based game. Beyond Orbit has been my passion project for many years, with iterations dating back to <a href="https://www.indiedb.com/games/beyond-orbit">2013</a> and <a href="https://www.youtube.com/@drone5879/videos">2017</a>.
+A systems-heavy science-fiction persistent browser based game, focused on DDD principles. Long term passion project, with iterations dating back to <a href="https://www.indiedb.com/games/beyond-orbit">2013</a> and <a href="https://www.youtube.com/@drone5879/videos">2017</a>.
 </td>
 
 <td width="33%" valign="top" align="center">
