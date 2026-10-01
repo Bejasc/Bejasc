@@ -96,13 +96,13 @@ A reusable design system and component library for building consistent applicati
 <td width="33%" valign="top" align="center">
 <a href="https://github.com/Bejasc/asa-public-website"><img src="https://github.com/Bejasc/asa-public-website/blob/main/src/assets/images/asa-full-transparent.png?raw=true" height="80" alt="Australis Space Alliance"></a><br><br>
 <a href="https://github.com/Bejasc/asa-public-website"><strong>Australis Space Alliance</strong></a><br><br>
-ASA is a Star Citizen organisation I was involved with - and built the original version of their <a href="https://asaorg.au/">public website</a>, as well as a supporting <a href="https://github.com/Bejasc/reflex-ventures-bot/tree/master">Discord bot</a> and community management.
+  Built the organisation's original <a href="https://asaorg.au/">public website</a> (since republished), and it's supporting <a href="https://github.com/Bejasc/reflex-ventures-bot/tree/master">Discord bot</a> (Verification, Administration, Community features) for a large Star Citizen community.
 </td>
 
 <td width="33%" valign="top" align="center">
 <a href="https://discord.gg/28pExzKQrT"><img src="https://cdn.bejasc.dev/swrpg/branding/server-banner.gif" height="80" alt="SWRPG: Galaxy in Turmoil"></a><br><br>
 <a href="https://discord.gg/28pExzKQrT"><strong>SWRPG: Galaxy in Turmoil</strong></a><br><br>
-A custom built Discord bot for a Discord-based Star Wars role playing game. Very systems and content heavy, with tools <a href="https://www.youtube.com/watch?v=Or84m4TayQQ">enabling players to create content</a>. Archived 2022.
+A systems-heavy Discord application powering a persistent Star Wars RPG, including player progression, content systems and <a href="https://swrpg.bejasc.dev/#/contributor/packages/about">tooling<a/> that allowed users to  <a href="https://www.youtube.com/watch?v=Or84m4TayQQ">author game content<a/>. Archived 2022.
 </td>
 </tr>
 </table>
