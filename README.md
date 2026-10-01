@@ -90,7 +90,7 @@ A UI and set of Claude skills to provide rapid feedback to LLMs based on a traff
 <td width="33%" valign="top" align="center">
 <a href="https://static.bejasc.dev/themes/polaris"><img src="https://github.com/user-attachments/assets/a39f7891-94f2-4fe4-b19a-ccea32fad4ee" height="90" alt="Polaris Design Library"></a><br><br>
 <a href="https://static.bejasc.dev/themes/polaris"><strong>Polaris Design Library</strong></a><br><br>
-A reusable design system and component library for building consistent application interfaces, with an interesting backstory.
+A reusable design system and component library for building consistent application interfaces, with an interesting backstory. Designed with tooling that automatically supports <a href="https://static.bejasc.dev/themes/polaris/llms.txt">effective use by LLMs<a/>.
 </td>
 
 <td width="33%" valign="top" align="center">
