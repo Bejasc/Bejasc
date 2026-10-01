@@ -1,91 +1,133 @@
-
 ## About Me
 
 ```js
 const name = 'Ben';
+
 document.write("Hello World!");
 
-var status = 
-{ 
-  employed   : true,
-  position   : "Development Team Leader",
-  location   : "South Australia",
-  interests  : [ "Productivity", "Leadership", "Game Development", "Food", "Cooking", "Music", "Science Fiction", "Food", "Gaming", "Food" ]
-}
-
-const skills = 
+const status =
 {
-  languages  : [ "Csharp", "Typescript", "Javascript" ],
-  ide        : [ "VS Code", "Visual Studio" ],
-  frameworks : [ ".NET MAUI", "VueJS", "Quasar", "Nest.JS", "Discord.JS", "Unity", "ASP.Net", "Xamarin.Forms"],
-  platforms  : [ "Microsoft Azure" ],
-  supplementary: [ "Photoshop", "Blender", "Figma" ]
-}
+  employed  : true,
+  position  : "Development Team Leader",
+  location  : "South Australia",
+  interests : [
+    "Productivity",
+    "Leadership",
+    "Game Development",
+    "Cooking",
+    "Music",
+    "Science Fiction",
+    "Gaming"
+  ]
+};
 
-Developer dev = new Developer(["beyond-orbit", "safeag", "swrpg-bot" ]);
+const skills =
+{
+  languages     : [ "C#", "TypeScript", "JavaScript" ],
+  ide           : [ "VS Code", "Visual Studio" ],
+  frameworks    : [
+    ".NET MAUI",
+    "VueJS",
+    "Quasar",
+    "NestJS",
+    "Discord.js",
+    "Unity",
+    "ASP.NET",
+    "Xamarin.Forms"
+  ],
+  platforms     : [ "Microsoft Azure" ],
+  supplementary : [ "Photoshop", "Blender", "Figma" ]
+};
 
-while(!dev.isCoding())  
+const dev = new Developer([
+  "beyond-orbit",
+  "safeag",
+  "swrpg-bot"
+]);
+
+while (!dev.isCoding())
 {
   dev.eat(110);
   dev.goodHusband(true);
-  dev.game(["rpg", "open-world", "sim", "space"]);
-  dev.dream({ idea: "new" })
+  dev.game([ "rpg", "open-world", "sim", "space" ]);
+  dev.dream({ idea: "new" });
   dev.sleep(6.5);
 }
 ```
 
 ---
-  <!--
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bejasc&custom_title=Activity&langs_count=6&layout=compact&theme=onedark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bejasc&hide=prs&count_private=true&theme=onedark&show_icons=true" />
-</a>
-  -->
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bejasc&theme=dracula&title=Contributions&width=100%"/>
-
-
----
-## My Toolbelt
-
-![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=Typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/C%20Sharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=Javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/SQL-informational?style=flat&logo=Javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Xamarin.Forms-informational?style=flat&logo=Xamarin&logoColor=white&color=bd3e6b)
-![](https://img.shields.io/badge/Discord.JS-informational?style=flat&logo=Discord&logoColor=white&color=bd3e6b)
-![](https://img.shields.io/badge/Unity-informational?style=flat&logo=unity&logoColor=white&color=bd3e6b)
-![](https://img.shields.io/badge/Vue.JS-informational?style=flat&logo=Vue.js&logoColor=white&color=bd3e6b)
-![](https://img.shields.io/badge/Vuetify-informational?style=flat&logo=Vuetify&logoColor=white&color=bd3e6b)
-
-![](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=BD6719)
-![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=BD6719)
-![](https://img.shields.io/badge/Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=BD6719)
-![](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=BD6719)
-
-![](https://img.shields.io/badge/Adobe_Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=35A1BD)
-![](https://img.shields.io/badge/Blender-informational?style=flat&logo=blender&logoColor=white&color=35A1BD)
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bejasc&theme=dracula" alt="GitHub profile summary" width="100%">
+</p>
 
 ---
 
-<!--
-## My Work
-<a href="https://discord.gg/28pExzKQrT">
-  <img align="center" src="https://cdn.bejasc.dev/swrpg/branding/server-banner.gif" height="auto" width="400"/>
-</a>
-<a href="https://swrpg.bejasc.dev">
-  <img align="center" src="https://cdn.bejasc.dev/swrpg/branding/swrpg-toolkit.png" height="auto" width="150"/>
-</a>
--->
+## Projects
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+<a href="https://www.safeagsystems.com/"><img src="https://github.com/user-attachments/assets/2f1fa802-7346-4104-b26e-1f2c90c6c2a1" height="80" alt="Safe Ag Systems"></a><br><br>
+<a href="https://www.safeagsystems.com/"><strong>Safe Ag Systems</strong></a><br><br>
+My professional work in agricultural safety software, spanning product development, internal tooling, application architecture and technical leadership.
+</td>
+
+<td width="33%" valign="top" align="center">
+<a href="https://beyondorbit.online"><img src="https://beyondorbit.online/assets/Mark-tPJfqHrl.png" height="90" alt="Beyond Orbit"></a><br><br>
+<a href="https://beyondorbit.online"><strong>Beyond Orbit</strong></a><br><br>
+A systems-heavy science-fiction persistent browser based game. Beyond Orbit has been my passion project for many years, with iterations dating back to <a href="https://www.indiedb.com/games/beyond-orbit">2013</a> and <a href="https://www.youtube.com/@drone5879/videos">2017</a>.
+</td>
+
+<td width="33%" valign="top" align="center">
+<a href="https://prototype.bejasc.dev/acceptance/"><img src="https://github.com/user-attachments/assets/c6bdafac-304a-440e-8714-21486dbd239c" height="80" alt="Acceptance Review"></a><br><br>
+<a href="https://prototype.bejasc.dev/acceptance/"><strong>Acceptance Review</strong></a><br><br>
+A UI and set of Claude skills to provide rapid feedback to LLMs based on a traffic-lights based system - helping you steer agents across large scale reviews.
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top" align="center">
+<a href="https://static.bejasc.dev/themes/polaris"><img src="https://github.com/user-attachments/assets/a39f7891-94f2-4fe4-b19a-ccea32fad4ee" height="90" alt="Polaris Design Library"></a><br><br>
+<a href="https://static.bejasc.dev/themes/polaris"><strong>Polaris Design Library</strong></a><br><br>
+A reusable design system and component library for building consistent application interfaces, with an interesting backstory.
+</td>
+
+<td width="33%" valign="top" align="center">
+<a href="https://github.com/Bejasc/asa-public-website"><img src="https://github.com/Bejasc/asa-public-website/blob/main/src/assets/images/asa-full-transparent.png?raw=true" height="80" alt="Australis Space Alliance"></a><br><br>
+<a href="https://github.com/Bejasc/asa-public-website"><strong>Australis Space Alliance</strong></a><br><br>
+ASA is a Star Citizen organisation I was involved with - and built the original version of their <a href="https://asaorg.au/">public website</a>, as well as a supporting <a href="https://github.com/Bejasc/reflex-ventures-bot/tree/master">Discord bot</a> and community management.
+</td>
+
+<td width="33%" valign="top" align="center">
+<a href="https://discord.gg/28pExzKQrT"><img src="https://cdn.bejasc.dev/swrpg/branding/server-banner.gif" height="80" alt="SWRPG: Galaxy in Turmoil"></a><br><br>
+<a href="https://discord.gg/28pExzKQrT"><strong>SWRPG: Galaxy in Turmoil</strong></a><br><br>
+A custom built Discord bot for a Discord-based Star Wars role playing game. Very systems and content heavy, with tools <a href="https://www.youtube.com/watch?v=Or84m4TayQQ">enabling players to create content</a>. Archived 2022.
+</td>
+</tr>
+</table>
+
 ---
 
-<!--
-[![Twitter (Personal)](https://img.shields.io/badge/Twitter%20(Bejasc)-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/bejascaus)
-[![Twitter (Beyond Orbit)](https://img.shields.io/badge/Twitter%20(Beyond%20Orbit)-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/drone5dev)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCq4B_5TtPrjKqDkxtfwAahw)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://bejasc.github.io/blog/)
--->
+## Prototypes
+
+Side projects, experiments and technical spikes supported by my software development background, AI tooling, and interest in systems, tools and creative development.
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+<a href="https://spacescape.bejasc.dev"><strong>Space Scape</strong></a><br><br>
+A clone of Old School RuneScape rebuilt around a science-fiction setting, with a strong focus on development tooling, systems design and content pipelines.
+</td>
+
+<td width="33%" valign="top" align="center">
+<a href="https://prototype.bejasc.dev/solar-map/"><strong>Solar Mapper</strong></a><br><br>
+An authored WebGL representation of a solar system, created as a technical spike for Beyond Orbit.
+</td>
+
+<td width="33%" valign="top" align="center">
+<a href="https://prototype.bejasc.dev/frontier-galaxy/"><strong>Frontier Galaxy</strong></a><br><br>
+A procedurally generated galaxy representation inspired by Elite Dangerous, created as a technical spike for Beyond Orbit.
+</td>
+</tr>
+</table>
