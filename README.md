@@ -94,9 +94,9 @@ A reusable design system and component library for building consistent applicati
 </td>
 
 <td width="33%" valign="top" align="center">
-<a href="https://github.com/Bejasc/asa-public-website"><img src="https://github.com/Bejasc/asa-public-website/blob/main/src/assets/images/asa-full-transparent.png?raw=true" height="80" alt="Australis Space Alliance"></a><br><br>
+<a href="https://asa.bejasc.dev"><img src="https://github.com/Bejasc/asa-public-website/blob/main/src/assets/images/asa-full-transparent.png?raw=true" height="80" alt="Australis Space Alliance"></a><br><br>
 <a href="https://github.com/Bejasc/asa-public-website"><strong>Australis Space Alliance</strong></a><br><br>
-  Built the organisation's original <a href="https://asaorg.au/">public website</a> (since republished), and it's supporting <a href="https://github.com/Bejasc/reflex-ventures-bot/tree/master">Discord bot</a> (Verification, Administration, Community features) for a large Star Citizen community.
+  Built the organisations original website</a>, and it's supporting <a href="https://github.com/Bejasc/reflex-ventures-bot/tree/master">Discord bot</a> (Verification, Administration, Community features) for a large Star Citizen community.
 </td>
 
 <td width="33%" valign="top" align="center">
